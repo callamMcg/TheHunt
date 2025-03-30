@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Student/Documents/Unreal Projects/Term2/25T1_McGaughey_120460_4FSC0PE004/Game AI Application/TheHunt/AI_1/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Student/Documents/Unreal Projects/Term2/25T1_McGaughey_120460_4FSC0PE004/Game AI Application/TheHunt/AI_1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Student/Documents/Unreal Projects/Term2/25T1_McGaughey_120460_4FSC0PE004/Game AI Application/TheHunt/AI_1/Content/AI_Animals/BP_Base_Animal.uasset",
+				"C:/Users/Student/Documents/Unreal Projects/Term2/25T1_McGaughey_120460_4FSC0PE004/Game AI Application/TheHunt/AI_1/Content/AI_Animals/Enum/E_Base_Animal.uasset",
+				"C:/Users/Student/Documents/Unreal Projects/Term2/25T1_McGaughey_120460_4FSC0PE004/Game AI Application/TheHunt/AI_1/Content/AI_Animals/Enum/E_Base_Animal_Emotion.uasset",
+				"C:/Users/Student/Documents/Unreal Projects/Term2/25T1_McGaughey_120460_4FSC0PE004/Game AI Application/TheHunt/AI_1/Content/AnimalVarietyPack/Wolf/Animations/ABP_Wolf.uasset"
+			]
+		}
+	]
+}
